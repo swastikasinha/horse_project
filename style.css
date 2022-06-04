@@ -1,0 +1,26 @@
+model-viewer{
+    height:400px;
+    width:auto;
+    margin-top: 200px;
+}
+body{
+    background-image:url("horse_background.jpg");
+    /* background-position: 2cm; */
+    background-position-y:bottom;
+    /* background-position:0 10px; */
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.text{
+    color:rgb(11, 1, 1);
+    
+    font-size: larger;
+    font-family: "Algerian","helvatica";
+    padding:10px;
+    background:rgba(201, 239, 173, 0.918);
+    /* border-bottom: 5px double rgb(205, 210, 255); */
+    text-align:center;
+    width:200px;
+}
+
